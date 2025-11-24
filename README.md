@@ -78,11 +78,9 @@ y también he aprendido a comunicarme mejor en equipo y a reaccionar rápido baj
 <h2>Contacto</h2>
 <p>Si quieres ponerte en contacto conmigo, puedes escribirme a:</p>
 <ul>
-<li>Email: <a href="mailto:tucorreo@example.com">tucorreo@example.com</a></li>
+<li>Email: <a href="lucianomontoya065@gmail.com">lucianomontoya065@gmail.com</a></li>
 <!--
-Cambia "lucianomontoya065@gmail.com" por tu correo real.
-Si quieres, también puedes agregar tu Instagram o LinkedIn, por ejemplo:
-<li>Instagram: <a href="https://www.instagram.com/lucianomontoyanu5" target="_blank">@tuusuario</a></li>
+
 -->
 </ul>
 </section>

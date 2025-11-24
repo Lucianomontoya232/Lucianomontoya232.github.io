@@ -80,9 +80,9 @@ y también he aprendido a comunicarme mejor en equipo y a reaccionar rápido baj
 <ul>
 <li>Email: <a href="mailto:tucorreo@example.com">tucorreo@example.com</a></li>
 <!--
-Cambia "tucorreo@example.com" por tu correo real.
+Cambia "lucianomontoya065@gmail.com" por tu correo real.
 Si quieres, también puedes agregar tu Instagram o LinkedIn, por ejemplo:
-<li>Instagram: <a href="https://www.instagram.com/tuusuario" target="_blank">@tuusuario</a></li>
+<li>Instagram: <a href="https://www.instagram.com/lucianomontoyanu5" target="_blank">@tuusuario</a></li>
 -->
 </ul>
 </section>
